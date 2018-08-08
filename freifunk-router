@@ -17,5 +17,5 @@ echo "##########################################################################
 
 read zahl
 
-echo "du hast $zahl eingegeben!"
+echo "du hast $zahl eingegeben!" 
 
