@@ -1,5 +1,11 @@
 #!/bin/bash
 
+VAR1=`date`
+VAR2=`pwd`
+
+echo "Aktuelles Datum: " $VAR1
+echo "du bist im verzeichniss: " $VAR2
+
 echo "##############################################################################"
 echo "###### Hallo dies ist ein script zum neustarten von freifunk-routern! 	######"
 echo "###### welche Freifunk-router moechtest du neustarten?		 	######"
