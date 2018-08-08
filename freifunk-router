@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "##############################################################################"
+echo "###### Hallo dies ist ein script zum neustarten von freifunk-routern! 	######"
+echo "###### welche Freifunk-router moechtest du neustarten?		 	######"
+echo "###### 1) ffEGR							 	######"
+echo "###### 2) ffETG1L							######"
+echo "###### 3) ffETG3L							######"
+echo "###### 4) ffOFFLOADER				 			######"
+echo "##############################################################################"
+
+read zahl
+
+echo "du hast $zahl eingegeben!"
+  
