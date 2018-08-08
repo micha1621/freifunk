@@ -1,7 +1,14 @@
 #!/bin/bash
 
+
+
+
 VAR1=`date`
 VAR2=`pwd`
+
+
+
+
 
 echo "Aktuelles Datum: " $VAR1
 echo ${VAR2}/bin
